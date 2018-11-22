@@ -1,0 +1,19 @@
+
+
+1. 컴포트 보드 구입 (USB 컨버터로 되지 않음.)
+http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=2018840981&trTypeCd=21&trCtgrNo=585021&lCtgrNo=1001445&mCtgrNo=1002985
+
+2. 카드리더기 전원 연결 (녹색불 반짝임= 정상 )
+
+3. 모듈 다운 (KSCAT )
+
+4. 모듈 실행
+
+5.유니티 Plugin (ksnetcomm) Dll 넣기 
+(빌드시에는 빌드 된 폴더에도 넣어야됨, 혹시 안되면 유니티 최상위 폴더에도 넣어야됨)
+
+6. 유니티 Architecture x86 선택 빌드
+ ( 신용카드 가 32비트 전용이라서 64비트 빌드시 안됨.)
+ 
+
+//야9하자 사업장 단말기 번호 실제 결재용 AT0221810A //
