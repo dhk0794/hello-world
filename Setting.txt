@@ -1,0 +1,36 @@
+// 시리얼 포트설정 //
+
+[Port]
+
+MoneyPort = Com3
+BimPort = Com6
+
+// 지폐개수 //
+
+[MoneyCount]
+
+Level1 =1
+Level2 =2
+Level3 =3
+
+// 난이도 //
+
+[Level]
+
+Level1 =1.5
+Level2 =1.2
+Level3 =0.9
+
+// 공개수 //
+
+[BallCount]
+
+Level1 =2
+Level2 =3
+Level3 =4
+
+//빔 슬립 하는 시간 (초)//
+
+[BimSleep] 
+
+Time = 180
